@@ -1,0 +1,3 @@
+[submodule "carros-frontend"]
+	path = carros-frontend
+	url = https://github.com/JeffFrade/carros-frontend
